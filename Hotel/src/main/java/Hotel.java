@@ -14,7 +14,7 @@ public class Hotel {
     }
 
     public ArrayList<Bedroom> getBedrooms() {
-        return new ArrayList<Bedroom>(bedrooms);
+        return new ArrayList<>(bedrooms);
     }
 
     public void setBedrooms(ArrayList<Bedroom> bedrooms) {
@@ -35,7 +35,7 @@ public class Hotel {
                 return room.getGuests();
             }
         }
-        return new ArrayList<Guest>();
+        return new ArrayList<>();
     }
 
     public void checkGuestsIntoBedroom(int number, ArrayList<Guest> guestList) {

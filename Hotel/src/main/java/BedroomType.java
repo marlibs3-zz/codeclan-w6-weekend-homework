@@ -1,7 +1,8 @@
 public enum BedroomType {
     SINGLE("Single",1),
     DOUBLE("Double", 2),
-    TWIN("Twin",2);
+    TWIN("Twin",2),
+    FAMILY("Family",4);
 
     private String type;
     private int capacity;
