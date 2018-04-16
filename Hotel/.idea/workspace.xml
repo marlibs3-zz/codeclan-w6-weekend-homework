@@ -24,8 +24,8 @@
           <file leaf-file-name="Hotel.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/Hotel.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="72">
-                  <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <state relative-caret-position="306">
+                  <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
                   <folding>
                     <element signature="e#255#256#0" expanded="true" />
                     <element signature="e#282#283#0" expanded="true" />
@@ -104,17 +104,17 @@
           <file leaf-file-name="HotelTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/HotelTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="235">
-                  <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+                <state relative-caret-position="1710">
+                  <caret line="80" column="6" lean-forward="true" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#748#749#0" expanded="true" />
                     <element signature="e#807#808#0" expanded="true" />
                     <element signature="e#863#864#0" expanded="true" />
                     <element signature="e#916#917#0" expanded="true" />
-                    <element signature="e#1198#1205#0" expanded="true" />
-                    <element signature="e#1673#1680#0" expanded="true" />
-                    <element signature="e#2176#2183#0" expanded="true" />
+                    <element signature="e#1204#1211#0" expanded="true" />
+                    <element signature="e#1679#1686#0" expanded="true" />
+                    <element signature="e#2182#2189#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -484,8 +484,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Bedroom.java" />
         <option value="$PROJECT_DIR$/src/main/java/Bedrooms.java" />
         <option value="$PROJECT_DIR$/src/main/java/BedroomType.java" />
-        <option value="$PROJECT_DIR$/src/test/java/HotelTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/BedroomTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HotelTest.java" />
       </list>
     </option>
   </component>
@@ -574,7 +574,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BedroomTest">
+  <component name="RunManager" selected="JUnit.All in Hotel_test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -743,9 +743,9 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BedroomTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.GuestTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.All in Hotel_test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in Hotel_test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BedroomTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GuestTest" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.HotelTest" />
       </list>
     </recent_temporary>
@@ -766,20 +766,28 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_Hotel_test - 2018.04.16 at 08h 24m 28s.xml">
+      <configuration name="All in Hotel_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BedroomTest - 2018.04.16 at 08h 24m 24s.xml">
+      <configuration name="BedroomTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -892,25 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hotel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RoomTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -955,17 +944,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HotelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+        <state relative-caret-position="1710">
+          <caret line="80" column="6" lean-forward="true" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#748#749#0" expanded="true" />
             <element signature="e#807#808#0" expanded="true" />
             <element signature="e#863#864#0" expanded="true" />
             <element signature="e#916#917#0" expanded="true" />
-            <element signature="e#1198#1205#0" expanded="true" />
-            <element signature="e#1673#1680#0" expanded="true" />
-            <element signature="e#2176#2183#0" expanded="true" />
+            <element signature="e#1204#1211#0" expanded="true" />
+            <element signature="e#1679#1686#0" expanded="true" />
+            <element signature="e#2182#2189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hotel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
           </folding>
         </state>
       </provider>

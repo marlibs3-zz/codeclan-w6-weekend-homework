@@ -41,6 +41,7 @@ public class HotelTest {
     public void canAddBedroom() {
         hotel.addBedroom(singleRoom);
         assertEquals(1, hotel.bedroomCount());
+    }
 
     @Test
     public void canGetGuestsCheckedIntoBedroom() {
@@ -77,7 +78,4 @@ public class HotelTest {
         hotel.checkGuestsOutOfBedroom(singleRoom.getNumber());
         ArrayList<Guest> guests = hotel.getGuestsCheckedIntoBedroom(singleRoom.getNumber());
         assertEquals(0, guests.size());
-    }
-
-
-}
+    }}
